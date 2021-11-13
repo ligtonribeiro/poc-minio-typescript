@@ -3,5 +3,5 @@
 ```sh
 $ npm install -g ts-node
 $ npm install
-$ ts-node index.js
+$ ts-node index.ts
 ```
